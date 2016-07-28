@@ -1,4 +1,4 @@
-package tr.gov.tuik.ejb.bean.basic;
+package tr.gov.tuik.arquillian.basic;
 
 import javax.inject.Inject;
 import java.io.PrintStream;

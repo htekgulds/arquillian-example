@@ -1,4 +1,4 @@
-package tr.gov.tuik.ejb.bean.advanced;
+package tr.gov.tuik.arquillian.advanced;
 
 import javax.ejb.Local;
 import java.util.List;

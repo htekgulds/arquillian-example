@@ -1,4 +1,4 @@
-package tr.gov.tuik.ejb.bean.advanced;
+package tr.gov.tuik.arquillian.advanced;
 
 import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit.Arquillian;

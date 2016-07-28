@@ -1,4 +1,4 @@
-package tr.gov.tuik.ejb.bean.basic;
+package tr.gov.tuik.arquillian.basic;
 
 import javax.annotation.PostConstruct;
 import java.text.MessageFormat;
